@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>imobiledevice-net: A .NET API for working with iOS devices | imobiledevice-net API </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="imobiledevice-net: A .NET API for working with iOS devices | imobiledevice-net API ">
+    <meta name="generator" content="docfx 2.29.1.0">
+    
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="styles/docfx.vendor.css">
+    <link rel="stylesheet" href="styles/docfx.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <meta property="docfx:navrel" content="toc">
+    <meta property="docfx:tocrel" content="toc">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="index.html">
+                <img id="logo" class="svg" src="logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+                <ul class="nav level1 navbar-nav">
+                  <li class="active">
+                    <a href="index.html" title="Home" class="active">Home</a>
+                  </li>
+                  <li class="">
+                    <a href="api/iMobileDevice.html" title="API Documentation" class="">API Documentation</a>
+                  </li>
+                </ul>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="imobiledevice-net-a-net-api-for-working-with-ios-devices">imobiledevice-net: A .NET API for working with iOS devices</h1>
+
+<p><a href="http://github.com/libimobiledevice-win32/imobiledevice-net">imobiledevice-net</a> is a library which allows you to interact with iOS devices
+on Windows using any of the .NET Framework languages (such as C# or Visual Basic).</p>
+<p>It is based on the <a href="http://libimobiledevice.org">libimobiledevice</a> library.</p>
+<h2 id="installing">Installing</h2>
+<p>You can install imobiledev-net as a <a href="https://www.nuget.org/packages/iMobileDevice-net/">NuGet package</a></p>
+<pre><code>PM&gt; Install-Package imobiledevice-net
+</code></pre><h2 id="getting-started">Getting started</h2>
+<h3 id="using-the-library">Using the library</h3>
+<p>Before you use the library, you must call <code>NativeLibraries.Load()</code> so that <code>libimobiledevice</code> is loaded correctly:</p>
+<pre><code>NativeLibraries.Load();
+</code></pre><h3 id="listing-all-ios-devices">Listing all iOS devices</h3>
+<p>The following snippit lists all devices which are currently connected to your PC:</p>
+<pre><code>ReadOnlyCollection&lt;string&gt; udids;
+int count = 0;
+
+var idevice = LibiMobileDevice.Instance.iDevice;
+var lockdown = LibiMobileDevice.Instance.Lockdown;
+
+var ret = idevice.idevice_get_device_list(out udids, ref count);
+
+if (ret == iDeviceError.NoDevice)
+{
+    // Not actually an error in our case
+    return;
+}
+
+ret.ThrowOnError();
+
+// Get the device name
+foreach (var udid in udids)
+{
+    iDeviceHandle deviceHandle;
+    idevice.idevice_new(out deviceHandle, udid).ThrowOnError();
+
+    LockdownClientHandle lockdownHandle;
+    lockdown.lockdownd_client_new_with_handshake(deviceHandle, out lockdownHandle, &quot;Quamotion&quot;).ThrowOnError();
+
+    string deviceName;
+    lockdown.lockdownd_get_device_name(lockdownHandle, out deviceName).ThrowOnError();
+
+    deviceHandle.Dispose();
+    lockdownHandle.Dispose();
+}
+</code></pre><h2 id="api-documentation">API documentation</h2>
+<p>For a full overview of the imobiledevice-net API, see <a href="api/">the imobiledevice-net API documentation</a></p>
+<h2 id="consulting-training-and-support">Consulting, Training and Support</h2>
+<p>This repository is maintained by <a href="http://quamotion.mobi">Quamotion</a>. Quamotion develops test software for iOS and 
+Android applications, based on the WebDriver protocol.</p>
+<p>Quamotion offers various technologies related to automating iOS devices using computers running Windows or Linux.
+This includes:</p>
+<ul>
+<li>The ability to remotely control iOS devices</li>
+<li>Extensions to libimobiledevice with support for the Instruments protocol</li>
+<li>Running Xcode UI Tests and Facebook WebDriverAgent tests</li>
+</ul>
+<p>In certain cases, Quamotion also offers professional services - such as consulting, training and support - related
+to imobiledivice-net and libimobiledevice.</p>
+<p>Contact us at <a href="mailto:info@quamotion.mobi">info@quamotion.mobi</a> for more information.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/libimobiledevice-win32/imobiledevice-net/blob/master/docs/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            Copyright (c) 2015-2017 Quamotion bvba. All rights reserved
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="styles/docfx.js"></script>
+    <script type="text/javascript" src="styles/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,3323 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/frede/Source/Repos/imobiledevice-net/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcApi.html",
+          "hash": "cq3oHZHS+aXzJrhw2ARWpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcClientHandle.html",
+          "hash": "Z1G+7uyTmNxRx8sIWdVJ8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcClientHandleDelegateMarshaler.html",
+          "hash": "YDaR1qjcz113P0op132c6g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcDictionaryMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcDictionaryMarshaler.html",
+          "hash": "p69EF9UqKuEx7Mo330niyA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcError.html",
+          "hash": "i4zGU4Qv5Fcps5fRausI4A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcErrorExtensions.html",
+          "hash": "nJkYxRA7YCq4N0uzLSI0qw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcException.html",
+          "hash": "0RZKb07QxiuLxzu6FlDtUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcFileMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcFileMode.html",
+          "hash": "6dEdppHFsyf3cvWPiWLXRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcLinkType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcLinkType.html",
+          "hash": "5JdQE9Fps0sA3R37XeaWGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcLockOp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcLockOp.html",
+          "hash": "5HmFailFwMHV4RUQbgWMaA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.AfcNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.AfcNativeMethods.html",
+          "hash": "5opGAAuJmq54RgjiykHLMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.IAfcApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.IAfcApi.html",
+          "hash": "lWRk3sOLebRHaWcSejXfbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Afc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Afc.html",
+          "hash": "cXzEv5qmI7vIyZOsyawiuQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerApi.html",
+          "hash": "5FrpQzfrgZouu+HTB+c7JA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerClientHandle.html",
+          "hash": "0Ec6YZ4KyHsZHBF8C0hSjQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerClientHandleDelegateMarshaler.html",
+          "hash": "79tUdZctENuQjdBoVSJ/qw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerCommandHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerCommandHandle.html",
+          "hash": "QFdk+OzjRhOlhIRs2So8Eg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerCommandHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerCommandHandleDelegateMarshaler.html",
+          "hash": "aNg+daeMaQquG681WCk8Hw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerError.html",
+          "hash": "s2G3nLS/zrgFk4PIo4dxQA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerErrorExtensions.html",
+          "hash": "CiX0U3X+hPYcdT9BfQYj+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerException.html",
+          "hash": "gVzssoObV58XWYHwbljsMA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.DebugServerNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.DebugServerNativeMethods.html",
+          "hash": "j2mBeQrOTcfnQjhWVttIBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.IDebugServerApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.IDebugServerApi.html",
+          "hash": "iQNdCH2SNc8tQAqPJkf/GQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DebugServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DebugServer.html",
+          "hash": "sv60SiBFXQUpB1ecSFi+ZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayAction.html",
+          "hash": "knqE3pu1Ovrq6nwbcySTfQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayApi.html",
+          "hash": "fvhSSUPbG2Jo7VOHndLg0g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayClientHandle.html",
+          "hash": "knzXF28s2/8SVTGaJst2DQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayClientHandleDelegateMarshaler.html",
+          "hash": "aJVQUNI/SJmqKp18Y80dPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayError.html",
+          "hash": "HFBdVjCSrvcDbKsLjahHOw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayErrorExtensions.html",
+          "hash": "mx4xKm4VGDVaVKGGci9llQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayException.html",
+          "hash": "V6uYFFw63RbTdZ3hvRH1ZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.DiagnosticsRelayNativeMethods.html",
+          "hash": "+gx5YjXhynEPkHRC7N5uKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.IDiagnosticsRelayApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.IDiagnosticsRelayApi.html",
+          "hash": "NSUV6xjsCUhzvvpG0L5yTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.DiagnosticsRelay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.DiagnosticsRelay.html",
+          "hash": "jsws4G85JXeOiX+iq0lh8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.FileRelayApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.FileRelayApi.html",
+          "hash": "/gQxO3QYiS89HOp65Zlung=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.FileRelayClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.FileRelayClientHandle.html",
+          "hash": "+meCsen8TtiOKAWPD9ZFGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.FileRelayClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.FileRelayClientHandleDelegateMarshaler.html",
+          "hash": "6F7wR4tmcXV/J6914hufVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.FileRelayError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.FileRelayError.html",
+          "hash": "aE0R+L1Y9v7NrbmseTtuwg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.FileRelayErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.FileRelayErrorExtensions.html",
+          "hash": "a89h6Pk9hVKwR7oPtzKhgQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.FileRelayException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.FileRelayException.html",
+          "hash": "/PhyphcWUinHkoyr9deqNA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.FileRelayNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.FileRelayNativeMethods.html",
+          "hash": "m3ZNuTyAmeHmZ3PbZL822w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.IFileRelayApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.IFileRelayApi.html",
+          "hash": "PtCx7wcSOapWO8ZdkObppQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.FileRelay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.FileRelay.html",
+          "hash": "QI0O/W0bBXDgJ96OORi1mA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.HeartBeatApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.HeartBeatApi.html",
+          "hash": "C8nHfrjetXzudKJhooUkKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.HeartBeatClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.HeartBeatClientHandle.html",
+          "hash": "J5b43RA/Xolq+4wDIDhSxA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.HeartBeatClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.HeartBeatClientHandleDelegateMarshaler.html",
+          "hash": "GF9KgwJ19xQqV8zyDuOY+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.HeartBeatError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.HeartBeatError.html",
+          "hash": "oINavwfZbyffiSXzeweTRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.HeartBeatErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.HeartBeatErrorExtensions.html",
+          "hash": "Oxjse3Ba5DQgG58AYvJ3aQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.HeartBeatException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.HeartBeatException.html",
+          "hash": "bjaqV6nRy1PcacufD5F9pg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.HeartBeatNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.HeartBeatNativeMethods.html",
+          "hash": "FvmfLFybA0JHfi/emWmFPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.IHeartBeatApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.IHeartBeatApi.html",
+          "hash": "GABnzfCqCn2HFSVDltxYuw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HeartBeat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HeartBeat.html",
+          "hash": "bXqJTx5is7FJuQYzCeznVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.HouseArrestApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.HouseArrestApi.html",
+          "hash": "naSJoBVPJzYUbmeUOLhSUg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.HouseArrestClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.HouseArrestClientHandle.html",
+          "hash": "hn2euogT2Ed4MElujqqyRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.HouseArrestClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.HouseArrestClientHandleDelegateMarshaler.html",
+          "hash": "XvGAnyPv2TJYvO9Mf+AsEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.HouseArrestError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.HouseArrestError.html",
+          "hash": "YH02aVzF4hJ+AwHNUk4PPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.HouseArrestErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.HouseArrestErrorExtensions.html",
+          "hash": "WuSbX1eipPEZXL6o1qaN3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.HouseArrestException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.HouseArrestException.html",
+          "hash": "dyMKNnfM46afeDVoALS9dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.HouseArrestNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.HouseArrestNativeMethods.html",
+          "hash": "YDqLFCgA8MbL0p5nSk8qPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.IHouseArrestApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.IHouseArrestApi.html",
+          "hash": "dxBbbeUtYIr/VsgX6bLiXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.HouseArrest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.HouseArrest.html",
+          "hash": "8idPgkGNce4VcBCk7dSVgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.ILibiMobileDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.ILibiMobileDevice.html",
+          "hash": "VARt2KFV9NegxItmaLnFwQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.IInstallationProxyApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.IInstallationProxyApi.html",
+          "hash": "JGL0u0JL6YvuTgxJYgbfzg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyApi.html",
+          "hash": "QKNtyAplS1z0wFtYg7eDKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyClientHandle.html",
+          "hash": "MX5UjaLAt94iNYo+LIawpA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyClientHandleDelegateMarshaler.html",
+          "hash": "Oj693eFnxqvNIPu08Qgqqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyError.html",
+          "hash": "xeRVCXR9YkeFbaUUK9SRQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyErrorExtensions.html",
+          "hash": "h5Lh9YIF38QFXlwcxETinA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyException.html",
+          "hash": "W5XCedVgIo6hQD/HhuB71A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyNativeMethods.html",
+          "hash": "yOJOSfjOqhCCsxOg4kylYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyStatusCallBack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.InstallationProxyStatusCallBack.html",
+          "hash": "omLNxNi1Kk08g4hI/kIdRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.InstallationProxy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.InstallationProxy.html",
+          "hash": "HgTDh1x02JK2XGARWctOpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.LibiMobileDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.LibiMobileDevice.html",
+          "hash": "cY3zTnbM8C0BXFZpbgiIMw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.ILockdownApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.ILockdownApi.html",
+          "hash": "dsb+SnurQxY+L3qdvz+9aQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownApi.html",
+          "hash": "X7GF14HIX0InQvsuXpitYQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownClientHandle.html",
+          "hash": "98ofeRo4GX/Z9yRBO9oNgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownClientHandleDelegateMarshaler.html",
+          "hash": "z7PnDIVHPbMYBe90k4SfRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownError.html",
+          "hash": "4msbYdwj6FswyfidbFdp+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownErrorExtensions.html",
+          "hash": "cowz3o1AoRCDl74ZbYLcBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownException.html",
+          "hash": "s8RhebUBvA+F7kb8lJq7gQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownMarshaler.html",
+          "hash": "awPGLGsBXGa5ninlPL0IlA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownNativeMethods.html",
+          "hash": "gEhzOjWdqZIS/AlSjdbBxA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownPairRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownPairRecord.html",
+          "hash": "5B+tDOrIoo+0Wlm3YbJPow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownPairRecordHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownPairRecordHandle.html",
+          "hash": "R72NSBH6DvDB71aU1L7Ueg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownPairRecordHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownPairRecordHandleDelegateMarshaler.html",
+          "hash": "ONzpD+1pPxUPrS406r6f0g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownServiceDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownServiceDescriptor.html",
+          "hash": "vgDowGsoBa/j/PK3M8xe5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownServiceDescriptorHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownServiceDescriptorHandle.html",
+          "hash": "MFcDtzOWvagbFSR0HogwJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.LockdownServiceDescriptorHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.LockdownServiceDescriptorHandleDelegateMarshaler.html",
+          "hash": "JAoThDk1AaEeJz8zo6GafQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Lockdown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Lockdown.html",
+          "hash": "Vx4gGmgOkjCkfG3NCofwJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.IMisagentApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.IMisagentApi.html",
+          "hash": "B59+F4D9Ck4Er6ZkfIuj+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.MisagentApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.MisagentApi.html",
+          "hash": "3rytoZRATnamOC08jZGZkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.MisagentClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.MisagentClientHandle.html",
+          "hash": "sE88aa+UILJyxaZb/N/YQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.MisagentClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.MisagentClientHandleDelegateMarshaler.html",
+          "hash": "axGXUIJWEc3nrJeGFbpMZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.MisagentError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.MisagentError.html",
+          "hash": "IDEtv/8UkeBFnqP4TMtbgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.MisagentErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.MisagentErrorExtensions.html",
+          "hash": "Zmt9GmrdBxrx1XYL3/8eiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.MisagentException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.MisagentException.html",
+          "hash": "X+lLOavZ0yocVKgaHnCsGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.MisagentNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.MisagentNativeMethods.html",
+          "hash": "0uBHxhjpJqh02Y2x1qWrAA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Misagent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Misagent.html",
+          "hash": "reNmWHdWNC7XJ0x80hBBTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.IMobileBackupApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.IMobileBackupApi.html",
+          "hash": "YTzBxtdQCRFNqU6Cvbvp8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupApi.html",
+          "hash": "UdcP3sgmDz/baLRHGbnTbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupClientHandle.html",
+          "hash": "riSfUz57YzOPOXxlGQlu3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupClientHandleDelegateMarshaler.html",
+          "hash": "ofbg2bXaQsqZK5MxAT3WWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupError.html",
+          "hash": "dLz1RfJpkurCZJwKdMCR1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupErrorExtensions.html",
+          "hash": "sOScavKhRTyAorSSjzBp0Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupException.html",
+          "hash": "glpGEEzk0E8/8z0Xo69hYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupFlags.html",
+          "hash": "1uLb+KM9/LkTzXlxas9twA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.MobileBackupNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.MobileBackupNativeMethods.html",
+          "hash": "1n5A2YVSM0Wv6iC/CbZzVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup.html",
+          "hash": "3PpmJjh6CiJjPOvXBwMvXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.IMobileBackup2Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.IMobileBackup2Api.html",
+          "hash": "6u0feDy+AsiNXTUETgHx3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2Api.html",
+          "hash": "ykNpwzPghSH6GLtPoZie+Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2ClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2ClientHandle.html",
+          "hash": "/MomGU8g99uqerZEMe2+eA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2ClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2ClientHandleDelegateMarshaler.html",
+          "hash": "+cgR8J4aPLR6PzgvLPHOHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2Error.html",
+          "hash": "F3sdqplo7QGu6WwcJ282XQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2ErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2ErrorExtensions.html",
+          "hash": "/Znf1d1V16t9MBXSrz4otw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2Exception.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2Exception.html",
+          "hash": "3LCg4p8qbkQzfN5NceKZcQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2NativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.MobileBackup2NativeMethods.html",
+          "hash": "2Jws6qFOEp+NNx2StKfH1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileBackup2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileBackup2.html",
+          "hash": "8SRtuMcJ3kNjffkTakgt0g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.IMobileImageMounterApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.IMobileImageMounterApi.html",
+          "hash": "LvHF0ctcOmhDr1b+XcV0mA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterApi.html",
+          "hash": "SlqropV+62qwKos+0zyLBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterClientHandle.html",
+          "hash": "UXEmlr6AQEy3iLqp9IIj/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterClientHandleDelegateMarshaler.html",
+          "hash": "NqlYT0hl8m+GcPYotJ60lA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterError.html",
+          "hash": "EROHmYkC+vufFsW/SpwKRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterErrorExtensions.html",
+          "hash": "GA1FD1wMQFAzz7b9OkxXYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterException.html",
+          "hash": "jDgosZP0HtaTTnOBe7s98w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterNativeMethods.html",
+          "hash": "Kb/7wROzvS9F+DUCBZl7lQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterUploadCallBack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.MobileImageMounterUploadCallBack.html",
+          "hash": "yeBnajdDTKUFaTHbDUC2tg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileImageMounter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileImageMounter.html",
+          "hash": "tqbwTs4cD2vBqjH7O8e1tA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.IMobileSyncApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.IMobileSyncApi.html",
+          "hash": "NBnUwuqwn1WcKhopBaI+Og=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncAnchors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncAnchors.html",
+          "hash": "gnKZu3yRenp7fbiwWWu2Qw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncAnchorsHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncAnchorsHandle.html",
+          "hash": "D31FpEHviJDqOMaoGjlq+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncAnchorsHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncAnchorsHandleDelegateMarshaler.html",
+          "hash": "W8D+IxygTgCwGrft2Km9Pg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncApi.html",
+          "hash": "3IskrG/fuKE3coaLVzMn9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncClientHandle.html",
+          "hash": "oVTBryruLeoIBL9AGB47qw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncClientHandleDelegateMarshaler.html",
+          "hash": "zc3aGAqRkSwC+Bnh6ELtLg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncError.html",
+          "hash": "mvaSuJMf6Gx5k7OJ+RE4Lw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncErrorExtensions.html",
+          "hash": "XbMprQrfzOPLFHUuC5BvXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncException.html",
+          "hash": "Wfgle6xHNrsNiv6hD2u4Ow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncNativeMethods.html",
+          "hash": "8Wp4jQcpJV4faVqrWcTz4A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.MobileSyncSyncType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.MobileSyncSyncType.html",
+          "hash": "JW9RSRQjQSxwpWKWFoI6Mw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.MobileSync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.MobileSync.html",
+          "hash": "0R7Omr9ooTBS4dQX13O2mg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.IMobileactivationApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.IMobileactivationApi.html",
+          "hash": "d79/5t7PHwdW1kw5jn5ugQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationApi.html",
+          "hash": "h0o/Ti2nqSe7o4yt02nPfQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationClientHandle.html",
+          "hash": "5T0TRJIDlhWM6q+i3pcGsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationClientHandleDelegateMarshaler.html",
+          "hash": "zWd3HoKvpsJzk7NT4dQdVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationError.html",
+          "hash": "IoSQmelSFs7v4MWZ5sJOGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationErrorExtensions.html",
+          "hash": "LByrCeX9HoDU6NWjY/JJQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationException.html",
+          "hash": "YTHWP6wMJwC+HL5JQn8Qbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.MobileactivationNativeMethods.html",
+          "hash": "vH3ufHBJKRoDfq2zx9Q21w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Mobileactivation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Mobileactivation.html",
+          "hash": "r8HjKmFOfqNUx45v03CVDw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NativeLibraries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NativeLibraries.html",
+          "hash": "UYoiL1YyQ9SglAeukKzfiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NativeStringArrayMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NativeStringArrayMarshaler.html",
+          "hash": "0uJaFFK9lKY/ju0BduCXFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NativeStringMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NativeStringMarshaler.html",
+          "hash": "RVIn47cHhoqYLMre9UFFTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.INotificationProxyApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.INotificationProxyApi.html",
+          "hash": "vYk3dk+VxKad/lLhq3jkew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyApi.html",
+          "hash": "DbLfpGm6q1IjOs349SWX9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyClientHandle.html",
+          "hash": "oHHqYIO0H/fRlGv015HmGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyClientHandleDelegateMarshaler.html",
+          "hash": "xzfG+pHjLdSbVNbe+k4nwQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyError.html",
+          "hash": "W9w9cNpPIL7ckKuJ0c5PsA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyErrorExtensions.html",
+          "hash": "HoVxy5PmIJ233zisHadfrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyException.html",
+          "hash": "KPEDQEGggQiAeMyEw+0a1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyNativeMethods.html",
+          "hash": "pRVbNy1SLh8fFIALbG6flw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyNotifyCallBack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.NotificationProxyNotifyCallBack.html",
+          "hash": "4dU15uTPY2zWTz5mpsZs7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.NotificationProxy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.NotificationProxy.html",
+          "hash": "2SdlLi4fXNaneND+xsRh1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Pinvoke.IPinvokeApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Pinvoke.IPinvokeApi.html",
+          "hash": "xCUxQDX+O3VzOeuVlWVMlg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Pinvoke.PinvokeApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Pinvoke.PinvokeApi.html",
+          "hash": "GCz4FFSYW4djUBrROi+kJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Pinvoke.PinvokeError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Pinvoke.PinvokeError.html",
+          "hash": "/5KnJTphJhyzdXR6ysTfCw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Pinvoke.PinvokeErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Pinvoke.PinvokeErrorExtensions.html",
+          "hash": "71Nbg2OjJLP1UZyGGAho1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Pinvoke.PinvokeException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Pinvoke.PinvokeException.html",
+          "hash": "wHE4wSwpY2te+iXWF9u8rA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Pinvoke.PinvokeNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Pinvoke.PinvokeNativeMethods.html",
+          "hash": "LLpfK+Q/uVCv7g+arlvpng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Pinvoke.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Pinvoke.html",
+          "hash": "o05WcivB5W7Lasr/4anZkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.IPlistApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.IPlistApi.html",
+          "hash": "xYArvRXbhhwPoGRhCEzbpQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.PlistApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.PlistApi.html",
+          "hash": "/ampc1PGYbr7dH87W5uLBg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.PlistDictIterHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.PlistDictIterHandle.html",
+          "hash": "BmAAu4K6uBSOlUmIAx4OfQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.PlistDictIterHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.PlistDictIterHandleDelegateMarshaler.html",
+          "hash": "KfiYUP2nJVtASJEs8Wc9DQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.PlistHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.PlistHandle.html",
+          "hash": "9md0UkMXSN6jRILs2pIFbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.PlistHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.PlistHandleDelegateMarshaler.html",
+          "hash": "XkAP+FcGjdW0fCNn0woz6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.PlistNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.PlistNativeMethods.html",
+          "hash": "ovlrmvvFtl5ypq5xLsh5rw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.PlistType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.PlistType.html",
+          "hash": "egOF7yen2FNztqNTv82YNw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Plist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Plist.html",
+          "hash": "wheXulZpyYgkx8X6z+Pg1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.IPropertyListServiceApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.IPropertyListServiceApi.html",
+          "hash": "Y/FEW77AgP/C6aEoeJ0SpQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceApi.html",
+          "hash": "8+nHBwKThJOHQvtz/JqcRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceClientHandle.html",
+          "hash": "aVF0kuU3Q5bCWJYsnoyRUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceClientHandleDelegateMarshaler.html",
+          "hash": "2p9TTMssIxTevRaKA1d3Eg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceError.html",
+          "hash": "AHgQ06XSvRve404xCVJjrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceErrorExtensions.html",
+          "hash": "Rtf3km1XioHjoFFRuzHrQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceException.html",
+          "hash": "+ikFE/xm4PB4yzq5tbJH1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.PropertyListServiceNativeMethods.html",
+          "hash": "JQsNKQeM/mfdsTNNOvF5cw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.PropertyListService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.PropertyListService.html",
+          "hash": "SDo+GM/jNdfYbafcKMBJmg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.IRestoreApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.IRestoreApi.html",
+          "hash": "NhxpD+xjxYZlkXzk67Tu9Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.RestoreApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.RestoreApi.html",
+          "hash": "mtFQVdUh0wTxltYDG6mfXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.RestoreClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.RestoreClientHandle.html",
+          "hash": "Zw+clVhJFcK7BQQ4k+IDQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.RestoreClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.RestoreClientHandleDelegateMarshaler.html",
+          "hash": "2QP2C9BXrVoeeQAeNQztVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.RestoreError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.RestoreError.html",
+          "hash": "EmX3SbQTSt5nCTvCgVw5xg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.RestoreErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.RestoreErrorExtensions.html",
+          "hash": "Iky9Pwonz5Re4AKubP9L7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.RestoreException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.RestoreException.html",
+          "hash": "HeubD4+B0qgZR69t1PL4wQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.RestoreNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.RestoreNativeMethods.html",
+          "hash": "Qn81gd54wKtOc9z2WxMS8g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Restore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Restore.html",
+          "hash": "+KPUMgN0rGajoOEQiCXa8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.IScreenshotrApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.IScreenshotrApi.html",
+          "hash": "zGCFo8Up8J/W9nBhOXkcmQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrApi.html",
+          "hash": "Cm46i/c2uY9TB1JpXgtA/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrClientHandle.html",
+          "hash": "xW0CCB2JuarXk7OBf4A71Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrClientHandleDelegateMarshaler.html",
+          "hash": "nlDW8bxxFXRDRoloZym1bA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrError.html",
+          "hash": "iJSYQbDUB0ljrZ/K/GEiXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrErrorExtensions.html",
+          "hash": "yYcL4mXeJLz7FLvLKUyOTA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrException.html",
+          "hash": "SvQHgxqvbg/XH21RYdAVxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.ScreenshotrNativeMethods.html",
+          "hash": "moBABtGbvt8IHA/lCGeO3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Screenshotr.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Screenshotr.html",
+          "hash": "Whr8yP5zeP+KXgHSPqRSGQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ConstructorFunc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ConstructorFunc.html",
+          "hash": "O6d2da/So1188S/nKSsRUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.IServiceApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.IServiceApi.html",
+          "hash": "uZilKSSKgERTrgYREJz7Eg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ServiceApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ServiceApi.html",
+          "hash": "i97EUB+V93X5/IuTms/QMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ServiceClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ServiceClientHandle.html",
+          "hash": "Jt05UMWwx29LqG3xeNgO1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ServiceClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ServiceClientHandleDelegateMarshaler.html",
+          "hash": "+d+E4Zkz9/c/GMfw2x/Fsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ServiceError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ServiceError.html",
+          "hash": "0rGoNE90wE40eSM7j8vCWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ServiceErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ServiceErrorExtensions.html",
+          "hash": "m1WTaBSgMhQ5bdfaHZdAXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ServiceException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ServiceException.html",
+          "hash": "38RgWq2Zt33c+zGtedVzNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.ServiceNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.ServiceNativeMethods.html",
+          "hash": "cAALfPUk3MNNlzOAakQ8WQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Service.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Service.html",
+          "hash": "nT9TpA1t9+mTCwlLTAPZvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.ISpringBoardServicesApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.ISpringBoardServicesApi.html",
+          "hash": "vq5ZZx1SvReplKnzFTjKGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesApi.html",
+          "hash": "RFbuHTA7RUlElstXEf3UXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesClientHandle.html",
+          "hash": "tZesv4Cjc/j7w7iCu06FQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesClientHandleDelegateMarshaler.html",
+          "hash": "K31x2W36t7FSil4MArZ8bg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesError.html",
+          "hash": "JqZbcjjADszKtEySmOfwyA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesErrorExtensions.html",
+          "hash": "sF4th1wQZ5KOXbHSHigZ/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesException.html",
+          "hash": "YsxVCSZAc4p0vfjA3pqU1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesInterfaceOrientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesInterfaceOrientation.html",
+          "hash": "oaLUR6+Gp7BpUeCf4IKDBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.SpringBoardServicesNativeMethods.html",
+          "hash": "wRssZ/4BRgdlYGE1H6YE2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SpringBoardServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SpringBoardServices.html",
+          "hash": "Or/dSeZgOajKFQUZT4I3yA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.ISyslogRelayApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.ISyslogRelayApi.html",
+          "hash": "7D6SZ5yUlBBn8VjVazT4Kg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayApi.html",
+          "hash": "Ms9sNe4YaQjc2sv0UcTS8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayClientHandle.html",
+          "hash": "akD3B2eKhmiA32QwiAvNSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayClientHandleDelegateMarshaler.html",
+          "hash": "R5UJJhGZpNTzd3DZyTXFDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayError.html",
+          "hash": "clZF4forNsYSRRFyhuFcUw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayErrorExtensions.html",
+          "hash": "o/H5Pw4G2+sZb0dHAWqrgQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayException.html",
+          "hash": "X112oa46dvN+Il0WmRx3/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayNativeMethods.html",
+          "hash": "RjsY45tW1zqhIkAtyhf76g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayReceiveCallBack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.SyslogRelayReceiveCallBack.html",
+          "hash": "2mMHQOuxqOKevwGIWfRGZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.SyslogRelay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.SyslogRelay.html",
+          "hash": "v0t3Ezt4Nod78DdxEllOzw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.IUsbmuxdApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.IUsbmuxdApi.html",
+          "hash": "F+UOyhko8DADFzGcDes0Bg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdApi.html",
+          "hash": "+CRFSsMIVGpbAxrMrqvkGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdDeviceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdDeviceInfo.html",
+          "hash": "xkvvfvQNphiCrXDKfakhXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdEvent.html",
+          "hash": "3jPr603csAT152XYHQ4VKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdEventCallBack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdEventCallBack.html",
+          "hash": "lxGDTUuqJH4qOCadFCrlAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdEventType.html",
+          "hash": "EVZxsirzU0vxhtDhHrtMXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdNativeMethods.html",
+          "hash": "wZVZYALl931F5gEcDNrr4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdSocketType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.UsbmuxdSocketType.html",
+          "hash": "tcnig+EGrECYL/D5hbfkew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Usbmuxd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Usbmuxd.html",
+          "hash": "v7ak2QWkxU0qA4imI8bmoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.Utf8Marshal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.Utf8Marshal.html",
+          "hash": "gsiZ0d+bMEbyRxrrXK174w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.IWebInspectorApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.IWebInspectorApi.html",
+          "hash": "27e8LVEnU3rNTrRiwqulXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.WebInspectorApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.WebInspectorApi.html",
+          "hash": "AlNMUzmMmcJdfnIijyLtvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.WebInspectorClientHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.WebInspectorClientHandle.html",
+          "hash": "3OakK6p4p3J7qPKNiiYIpQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.WebInspectorClientHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.WebInspectorClientHandleDelegateMarshaler.html",
+          "hash": "Yqu21i4OUzy3SWpCFJNGeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.WebInspectorError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.WebInspectorError.html",
+          "hash": "8NTOmf7LIbRWRylLBoRDCw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.WebInspectorErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.WebInspectorErrorExtensions.html",
+          "hash": "Kc6CeWrNEXl9BwdIuZsJ2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.WebInspectorException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.WebInspectorException.html",
+          "hash": "KZfqdkOFWsSotd3YrYNRZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.WebInspectorNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.WebInspectorNativeMethods.html",
+          "hash": "78GjkBgVzwmLnXRAOGWkRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.WebInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.WebInspector.html",
+          "hash": "b2WaVBA1+zCSlprQrpPO7g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.IiDeviceApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.IiDeviceApi.html",
+          "hash": "qVj7J5xEoedD1jU1qFWSuQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceApi.html",
+          "hash": "z2BUg0KJdTNQPa0RuQAebg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceConnectionHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceConnectionHandle.html",
+          "hash": "jOdJtpNi1bdlmq0H6+PD9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceConnectionHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceConnectionHandleDelegateMarshaler.html",
+          "hash": "C9iaELkISXR3VWAf87tWHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceDebugCallBack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceDebugCallBack.html",
+          "hash": "x4Gub8lN4KXcjrKKWqL+BA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceError.html",
+          "hash": "XErJixsMptgILaM9qb2nPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceErrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceErrorExtensions.html",
+          "hash": "MSn2AUdWgFTESWXQ8JroBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceEvent.html",
+          "hash": "/4IVmChAHiwdrWwDSCfQ7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceEventCallBack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceEventCallBack.html",
+          "hash": "BqySePzuorPOLoNaiVFKoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceEventType.html",
+          "hash": "Qpg5SaVp8IK1YHkNfCyX9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceException.html",
+          "hash": "o7iNR/LjTDtW/juGXNDLaA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceHandle.html",
+          "hash": "lj+M8akz2kUV1uotflw/NQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceHandleDelegateMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceHandleDelegateMarshaler.html",
+          "hash": "UWVfKhjDD07pC7yZOz9XPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceListMarshaler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceListMarshaler.html",
+          "hash": "ID3V/Y5MdzEWnVg5qojkdg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceNativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceNativeMethods.html",
+          "hash": "89AMlajHNfLMSvxm1DbXng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.iDeviceSocketType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.iDeviceSocketType.html",
+          "hash": "UaL+XkAR5CRuLmz56j80yQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.iDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.iDevice.html",
+          "hash": "xmgZiUp6lsrNme3ZGfB1Bg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/iMobileDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/iMobileDevice.html",
+          "hash": "fgBAdZGpOiv3IjQ/b+cSlw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "qdEJON8ksu6nVy68XBl5oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
